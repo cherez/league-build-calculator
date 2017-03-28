@@ -1,10 +1,11 @@
 from modifier import Modifier
 
+champions = {}
+
 
 class Champion(Modifier):
+    def __init_subclass__(cls, **kwargs):
+        super().__init_subclass__(**kwargs)
+        champions[cls.__name__] = cls
     pass
 
-quinn = Champion()
-quinn.ad = 54.5
-quinn.scaling_ad = 2.41
-quinn.move_speed = 335

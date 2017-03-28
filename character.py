@@ -32,6 +32,7 @@ class Stat:
         setattr(Modifier, "base_" + name, 0)
         setattr(Modifier, "max_" + name, 0)
         setattr(Champion, name, self.default)
+        setattr(Champion, "scaling_base_" + name, 0)  # this is mainly for attack speed
 
     def __get__(self, instance, owner) -> float:
         base = self.get_base(instance)
@@ -47,7 +48,8 @@ class Stat:
         scaling = getattr(instance.champion, "scaling_" + self.name)
         level_mult = (instance.level - 1) * (0.685 + 0.0175 * instance.level)
         base_mult = sum(getattr(item, "base_" + self.name) for item in instance.items)
-        return (base + scaling * level_mult) * (1 + base_mult)
+        base_mult += getattr(instance.champion, "scaling_base_" + self.name) * level_mult
+        return base * (1 + base_mult) + scaling * level_mult
 
     def _cap(self, uncapped: float) -> float:
         total = 0

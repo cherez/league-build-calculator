@@ -3,5 +3,5 @@ from modifier import Modifier
 class Item(Modifier):
     pass
 
-longsword = Item()
-longsword.ad = 10
+class Longsword(Item):
+    ad = 10
