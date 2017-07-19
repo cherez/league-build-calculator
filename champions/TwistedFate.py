@@ -19,5 +19,5 @@ class TwistedFate(Champion):
     scaling_mana_regen = 0.8
     move_speed = 330.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 525.0

@@ -18,6 +18,6 @@ class Yorick(Champion):
     mana_regen = 7.5
     scaling_mana_regen = 0.75
     move_speed = 340.0
-    mr = 32.1
+    mr = 32.0
     scaling_mr = 1.25
     range = 175.0

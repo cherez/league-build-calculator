@@ -7,7 +7,7 @@ class TahmKench(Champion):
     scaling_ad = 3.2
     armor = 27.0
     scaling_armor = 3.5
-    attack_speed = 0.613
+    attack_speed = 0.658
     scaling_base_attack_speed = 0.025
     health = 610.0
     scaling_health = 95.0

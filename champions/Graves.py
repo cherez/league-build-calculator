@@ -11,13 +11,13 @@ class Graves(Champion):
     scaling_base_attack_speed = 0.028999999999999998
     health = 551.12
     scaling_health = 84.0
-    health_regen = 6.675
+    health_regen = 6.676
     scaling_health_regen = 0.7
     mana = 322.2
     scaling_mana = 40.0
-    mana_regen = 7.925
+    mana_regen = 7.9
     scaling_mana_regen = 0.7
     move_speed = 340.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 425.0

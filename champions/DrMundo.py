@@ -4,7 +4,7 @@ from champion import Champion
 class DrMundo(Champion):
     name = 'Dr. Mundo'
     ad = 61.27
-    scaling_ad = 3.0
+    scaling_ad = 3.5
     armor = 26.88
     scaling_armor = 3.5
     attack_speed = 0.625

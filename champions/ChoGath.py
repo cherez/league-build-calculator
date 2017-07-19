@@ -11,11 +11,11 @@ class ChoGath(Champion):
     scaling_base_attack_speed = 0.0144
     health = 574.4
     scaling_health = 80.0
-    health_regen = 8.925
+    health_regen = 8.928
     scaling_health_regen = 0.85
     mana = 272.2
     scaling_mana = 40.0
-    mana_regen = 7.205
+    mana_regen = 7.206
     scaling_mana_regen = 0.45
     move_speed = 345.0
     mr = 32.1

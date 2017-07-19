@@ -11,7 +11,7 @@ class Alistar(Champion):
     scaling_base_attack_speed = 0.02125
     health = 613.36
     scaling_health = 106.0
-    health_regen = 8.675
+    health_regen = 8.678
     scaling_health_regen = 0.85
     mana = 278.84
     scaling_mana = 38.0

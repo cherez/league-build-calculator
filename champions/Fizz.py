@@ -11,7 +11,7 @@ class Fizz(Champion):
     scaling_base_attack_speed = 0.031
     health = 558.48
     scaling_health = 86.0
-    health_regen = 8.175
+    health_regen = 8.176
     scaling_health_regen = 0.7
     mana = 317.2
     scaling_mana = 37.0

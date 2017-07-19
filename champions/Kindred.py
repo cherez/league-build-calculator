@@ -3,8 +3,8 @@ from champion import Champion
 
 class Kindred(Champion):
     name = 'Kindred'
-    ad = 54.42
-    scaling_ad = 1.61
+    ad = 57.0
+    scaling_ad = 2.26
     armor = 20.0
     scaling_armor = 3.5
     attack_speed = 0.625
@@ -19,5 +19,5 @@ class Kindred(Champion):
     scaling_mana_regen = 0.4
     move_speed = 325.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 500.0

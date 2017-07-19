@@ -11,7 +11,7 @@ class Anivia(Champion):
     scaling_base_attack_speed = 0.0168
     health = 467.6
     scaling_health = 70.0
-    health_regen = 5.57
+    health_regen = 5.574
     scaling_health_regen = 0.55
     mana = 396.04
     scaling_mana = 50.0
@@ -19,5 +19,5 @@ class Anivia(Champion):
     scaling_mana_regen = 0.8
     move_speed = 325.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 600.0

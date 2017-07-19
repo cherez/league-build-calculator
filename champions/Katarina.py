@@ -3,7 +3,7 @@ from champion import Champion
 
 class Katarina(Champion):
     name = 'Katarina'
-    ad = 58.376
+    ad = 58.0
     scaling_ad = 3.2
     armor = 27.88
     scaling_armor = 3.5

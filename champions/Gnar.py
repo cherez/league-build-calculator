@@ -8,7 +8,7 @@ class Gnar(Champion):
     armor = 23.0
     scaling_armor = 2.5
     attack_speed = 0.625
-    scaling_base_attack_speed = 0.005
+    scaling_base_attack_speed = 0.06
     health = 540.0
     scaling_health = 65.0
     health_regen = 4.5
@@ -17,7 +17,7 @@ class Gnar(Champion):
     scaling_mana = 0.0
     mana_regen = 0.0
     scaling_mana_regen = 0.0
-    move_speed = 325.0
+    move_speed = 335.0
     mr = 30.0
-    scaling_mr = 0.0
-    range = 175.0
+    scaling_mr = 0.5
+    range = 400.0

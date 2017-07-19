@@ -11,11 +11,11 @@ class Evelynn(Champion):
     scaling_base_attack_speed = 0.036000000000000004
     health = 531.2
     scaling_health = 90.0
-    health_regen = 9.82
+    health_regen = 9.824
     scaling_health_regen = 0.55
     mana = 315.6
     scaling_mana = 42.0
-    mana_regen = 8.105
+    mana_regen = 8.108
     scaling_mana_regen = 0.6
     move_speed = 340.0
     mr = 32.1

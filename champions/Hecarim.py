@@ -15,7 +15,7 @@ class Hecarim(Champion):
     scaling_health_regen = 0.75
     mana = 277.2
     scaling_mana = 40.0
-    mana_regen = 6.505
+    mana_regen = 6.5
     scaling_mana_regen = 0.6
     move_speed = 345.0
     mr = 32.1

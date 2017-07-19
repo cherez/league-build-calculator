@@ -11,13 +11,13 @@ class Brand(Champion):
     scaling_base_attack_speed = 0.013600000000000001
     health = 507.68
     scaling_health = 76.0
-    health_regen = 5.42
+    health_regen = 5.424
     scaling_health_regen = 0.55
     mana = 375.6
     scaling_mana = 42.0
-    mana_regen = 8.005
+    mana_regen = 8.008
     scaling_mana_regen = 0.6
     move_speed = 340.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 550.0

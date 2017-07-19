@@ -11,7 +11,7 @@ class Morgana(Champion):
     scaling_base_attack_speed = 0.015300000000000001
     health = 547.48
     scaling_health = 86.0
-    health_regen = 5.705
+    health_regen = 5.708
     scaling_health_regen = 0.6
     mana = 340.8
     scaling_mana = 60.0
@@ -19,5 +19,5 @@ class Morgana(Champion):
     scaling_mana_regen = 0.8
     move_speed = 335.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 450.0

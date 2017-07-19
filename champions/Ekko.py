@@ -18,6 +18,6 @@ class Ekko(Champion):
     mana_regen = 7.0
     scaling_mana_regen = 0.6
     move_speed = 340.0
-    mr = 32.1
+    mr = 32.0
     scaling_mr = 1.25
     range = 125.0

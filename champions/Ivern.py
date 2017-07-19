@@ -15,9 +15,9 @@ class Ivern(Champion):
     scaling_health_regen = 0.85
     mana = 450.0
     scaling_mana = 60.0
-    mana_regen = 6.2
+    mana_regen = 6.0
     scaling_mana_regen = 0.75
-    move_speed = 330.0
+    move_speed = 325.0
     mr = 32.1
     scaling_mr = 1.25
     range = 125.0

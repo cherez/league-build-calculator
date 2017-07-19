@@ -17,7 +17,7 @@ class LeeSin(Champion):
     scaling_mana = 0.0
     mana_regen = 50.0
     scaling_mana_regen = 0.0
-    move_speed = 350.0
+    move_speed = 345.0
     mr = 32.1
     scaling_mr = 1.25
     range = 125.0

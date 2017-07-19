@@ -19,5 +19,5 @@ class Kalista(Champion):
     scaling_mana_regen = 0.4
     move_speed = 325.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 550.0

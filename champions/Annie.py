@@ -11,7 +11,7 @@ class Annie(Champion):
     scaling_base_attack_speed = 0.013600000000000001
     health = 511.68
     scaling_health = 76.0
-    health_regen = 5.42
+    health_regen = 5.424
     scaling_health_regen = 0.55
     mana = 334.0
     scaling_mana = 50.0
@@ -19,5 +19,5 @@ class Annie(Champion):
     scaling_mana_regen = 0.8
     move_speed = 335.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 575.0

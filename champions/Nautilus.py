@@ -16,7 +16,7 @@ class Nautilus(Champion):
     mana = 334.0
     scaling_mana = 47.0
     mana_regen = 8.625
-    scaling_mana_regen = 0.7
+    scaling_mana_regen = 0.5
     move_speed = 325.0
     mr = 32.1
     scaling_mr = 1.25

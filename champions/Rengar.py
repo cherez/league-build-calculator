@@ -3,7 +3,7 @@ from champion import Champion
 
 class Rengar(Champion):
     name = 'Rengar'
-    ad = 60.04
+    ad = 60.0
     scaling_ad = 1.5
     armor = 22.0
     scaling_armor = 3.0

@@ -11,7 +11,7 @@ class Zed(Champion):
     scaling_base_attack_speed = 0.021
     health = 579.4
     scaling_health = 80.0
-    health_regen = 7.09
+    health_regen = 7.092
     scaling_health_regen = 0.65
     mana = 200.0
     scaling_mana = 0.0

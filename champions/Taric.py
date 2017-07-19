@@ -15,8 +15,8 @@ class Taric(Champion):
     scaling_health_regen = 0.5
     mana = 300.0
     scaling_mana = 60.0
-    mana_regen = 5.0
-    scaling_mana_regen = 1.0
+    mana_regen = 8.5
+    scaling_mana_regen = 0.8
     move_speed = 340.0
     mr = 32.1
     scaling_mr = 1.25

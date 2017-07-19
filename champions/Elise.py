@@ -11,7 +11,7 @@ class Elise(Champion):
     scaling_base_attack_speed = 0.0175
     health = 529.4
     scaling_health = 80.0
-    health_regen = 5.705
+    health_regen = 5.708
     scaling_health_regen = 0.6
     mana = 324.0
     scaling_mana = 50.0
@@ -19,5 +19,5 @@ class Elise(Champion):
     scaling_mana_regen = 0.8
     move_speed = 325.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 550.0

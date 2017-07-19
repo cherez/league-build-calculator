@@ -11,7 +11,7 @@ class Akali(Champion):
     scaling_base_attack_speed = 0.031
     health = 587.8
     scaling_health = 85.0
-    health_regen = 8.34
+    health_regen = 8.342
     scaling_health_regen = 0.65
     mana = 200.0
     scaling_mana = 0.0

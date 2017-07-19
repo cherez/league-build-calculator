@@ -7,7 +7,7 @@ class Gangplank(Champion):
     scaling_ad = 3.0
     armor = 26.0
     scaling_armor = 3.0
-    attack_speed = 0.651
+    attack_speed = 0.658
     scaling_base_attack_speed = 0.032
     health = 540.0
     scaling_health = 82.0

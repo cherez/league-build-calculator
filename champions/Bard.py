@@ -8,9 +8,9 @@ class Bard(Champion):
     armor = 25.0
     scaling_armor = 4.0
     attack_speed = 0.625
-    scaling_base_attack_speed = 0.01
+    scaling_base_attack_speed = 0.02
     health = 535.0
-    scaling_health = 93.0
+    scaling_health = 89.0
     health_regen = 5.4
     scaling_health_regen = 0.55
     mana = 350.0
@@ -19,5 +19,5 @@ class Bard(Champion):
     scaling_mana_regen = 0.45
     move_speed = 330.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 500.0

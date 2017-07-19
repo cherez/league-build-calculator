@@ -5,7 +5,7 @@ class Galio(Champion):
     name = 'Galio'
     ad = 59.0
     scaling_ad = 3.5
-    armor = 27.0
+    armor = 24.0
     scaling_armor = 3.5
     attack_speed = 0.625
     scaling_base_attack_speed = 0.015
@@ -18,6 +18,6 @@ class Galio(Champion):
     mana_regen = 7.0
     scaling_mana_regen = 0.7
     move_speed = 335.0
-    mr = 32.1
+    mr = 32.0
     scaling_mr = 1.25
     range = 150.0

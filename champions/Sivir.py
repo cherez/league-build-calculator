@@ -19,5 +19,5 @@ class Sivir(Champion):
     scaling_mana_regen = 0.9
     move_speed = 335.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 500.0

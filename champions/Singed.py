@@ -9,8 +9,8 @@ class Singed(Champion):
     scaling_armor = 3.5
     attack_speed = 0.613
     scaling_base_attack_speed = 0.0181
-    health = 542.76
-    scaling_health = 82.0
+    health = 580.0
+    scaling_health = 85.0
     health_regen = 8.02
     scaling_health_regen = 0.55
     mana = 290.6

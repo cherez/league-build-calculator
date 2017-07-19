@@ -11,7 +11,7 @@ class Diana(Champion):
     scaling_base_attack_speed = 0.0225
     health = 589.2
     scaling_health = 90.0
-    health_regen = 7.425
+    health_regen = 7.428
     scaling_health_regen = 0.85
     mana = 297.2
     scaling_mana = 40.0

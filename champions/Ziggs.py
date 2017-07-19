@@ -11,7 +11,7 @@ class Ziggs(Champion):
     scaling_base_attack_speed = 0.02
     health = 524.4
     scaling_health = 80.0
-    health_regen = 6.255
+    health_regen = 6.258
     scaling_health_regen = 0.6
     mana = 384.0
     scaling_mana = 47.0
@@ -19,5 +19,5 @@ class Ziggs(Champion):
     scaling_mana_regen = 0.8
     move_speed = 325.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 550.0

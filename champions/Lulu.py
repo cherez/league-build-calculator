@@ -9,7 +9,7 @@ class Lulu(Champion):
     scaling_armor = 3.7
     attack_speed = 0.625
     scaling_base_attack_speed = 0.0225
-    health = 552.76
+    health = 525.0
     scaling_health = 74.0
     health_regen = 6.005
     scaling_health_regen = 0.6
@@ -19,5 +19,5 @@ class Lulu(Champion):
     scaling_mana_regen = 0.6
     move_speed = 330.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 550.0

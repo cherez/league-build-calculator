@@ -15,7 +15,7 @@ class Talon(Champion):
     scaling_health_regen = 0.75
     mana = 377.2
     scaling_mana = 37.0
-    mana_regen = 7.59
+    mana_regen = 7.6
     scaling_mana_regen = 0.75
     move_speed = 335.0
     mr = 32.1

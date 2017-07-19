@@ -8,7 +8,7 @@ class AurelionSol(Champion):
     armor = 19.0
     scaling_armor = 3.6
     attack_speed = 0.625
-    scaling_base_attack_speed = 0.010096
+    scaling_base_attack_speed = 0.013600000000000001
     health = 550.0
     scaling_health = 80.0
     health_regen = 6.5
@@ -19,5 +19,5 @@ class AurelionSol(Champion):
     scaling_mana_regen = 0.8
     move_speed = 325.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 550.0

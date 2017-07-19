@@ -11,7 +11,7 @@ class LeBlanc(Champion):
     scaling_base_attack_speed = 0.013999999999999999
     health = 516.0
     scaling_health = 80.0
-    health_regen = 7.42
+    health_regen = 7.4
     scaling_health_regen = 0.55
     mana = 334.0
     scaling_mana = 50.0
@@ -19,5 +19,5 @@ class LeBlanc(Champion):
     scaling_mana_regen = 0.8
     move_speed = 340.0
     mr = 30.0
-    scaling_mr = 0.0
+    scaling_mr = 0.5
     range = 525.0
